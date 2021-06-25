@@ -1,0 +1,364 @@
+{
+	"music": [
+		{
+			"id": 1,
+			"Name": "BUSTER",
+			"Singer": "$atori Zoom",
+			"Link": "http://82.156.12.58:808/music/$atori%20Zoom%20-%20BUSTER.mp3",
+			"Post": "http://82.156.12.58:808/post/$atori%20Zoom%20-%20BUSTER.jpg",
+			"Bg": "http://82.156.12.58:808/bg/$atori%20Zoom%20-%20BUSTER-bg.jpg",
+			"Like": true
+		},
+		{
+			"id": 2,
+			"Name": "Mood",
+			"Singer": "24kGoldn _ iann dior",
+			"Link": "http://82.156.12.58:808/music/24kGoldn%20_%20iann%20dior%20-%20Mood%20(Explicit).mp3",
+			"Post": "http://82.156.12.58:808/post/24kGoldn%20_%20iann%20dior%20-%20Mood%20(Explicit).jpg",
+			"Bg": "http://82.156.12.58:808/bg/24kGoldn%20_%20iann%20dior%20-%20Mood%20(Explicit)-bg.jpg",
+			"Like": true
+		},
+		{
+			"id": 3,
+			"Name": "Rolling in the Deep",
+			"Singer": "Adele",
+			"Link": "http://82.156.12.58:808/music/Adele%20-%20Rolling%20in%20the%20Deep%20(Explicit).mp3",
+			"Post": "http://82.156.12.58:808/post/Adele%20-%20Rolling%20in%20the%20Deep%20(Explicit).jpg",
+			"Bg": "http://82.156.12.58:808/bg/Adele%20-%20Rolling%20in%20the%20Deep%20(Explicit)-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 4,
+			"Name": "Super Duper Party People",
+			"Singer": "Allie X",
+			"Link": "http://82.156.12.58:808/music/Allie%20X%20-%20Super%20Duper%20Party%20People.mp3",
+			"Post": "http://82.156.12.58:808/post/Allie%20X%20-%20Super%20Duper%20Party%20People.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Allie%20X%20-%20Super%20Duper%20Party%20People-bg.jpg",
+			"Like": true
+		},
+		{
+			"id": 5,
+			"Name": "Here With You",
+			"Singer": "Asher Monroe",
+			"Link": "http://82.156.12.58:808/music/Asher%20Monroe%20-%20Here%20With%20You.mp3",
+			"Post": "http://82.156.12.58:808/post/Asher%20Monroe%20-%20Here%20With%20You.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Asher%20Monroe%20-%20Here%20With%20You-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 6,
+			"Name": "Panic Room",
+			"Singer": "Au_Ra",
+			"Link": "http://82.156.12.58:808/music/Au_Ra%20-%20Panic%20Room%20(Acoustic).mp3",
+			"Post": "http://82.156.12.58:808/post/Au_Ra%20-%20Panic%20Room%20(Acoustic).jpg",
+			"Bg": "http://82.156.12.58:808/bg/Au_Ra%20-%20Panic%20Room%20(Acoustic)-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 7,
+			"Name": "My Anthem",
+			"Singer": "Christina Grimmie",
+			"Link": "http://82.156.12.58:808/music/Christina%20Grimmie%20-%20My%20Anthem(Bonus%20Track).mp3",
+			"Post": "http://82.156.12.58:808/post/Christina%20Grimmie%20-%20My%20Anthem(Bonus%20Track).jpg",
+			"Bg": "http://82.156.12.58:808/bg/Christina%20Grimmie%20-%20My%20Anthem(Bonus%20Track)-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 8,
+			"Name": "嚣张",
+			"Singer": "en",
+			"Link": "http://82.156.12.58:808/music/en%20-%20%E5%9A%A3%E5%BC%A0.mp3",
+			"Post": "http://82.156.12.58:808/post/en%20-%20%E5%9A%A3%E5%BC%A0.jpg",
+			"Bg": "http://82.156.12.58:808/bg/en%20-%20%E5%9A%A3%E5%BC%A0-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 9,
+			"Name": "Let's Go",
+			"Singer": "Full Trunk",
+			"Link": "http://82.156.12.58:808/music/Full%20Trunk%20-%20Let%27s%20Go.mp3",
+			"Post": "http://82.156.12.58:808/post/Full%20Trunk%20-%20Let%27s%20Go.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Full%20Trunk%20-%20Let%27s%20Go-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 10,
+			"Name": "PAY ME BACK!",
+			"Singer": "ILIRA",
+			"Link": "http://82.156.12.58:808/music/ILIRA%20-%20PAY%20ME%20BACK!.mp3",
+			"Post": "http://82.156.12.58:808/post/ILIRA%20-%20PAY%20ME%20BACK!.jpg",
+			"Bg": "http://82.156.12.58:808/bg/ILIRA%20-%20PAY%20ME%20BACK!-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 11,
+			"Name": "The Entertainer",
+			"Singer": "Leandro Aconcha",
+			"Link": "http://82.156.12.58:808/music/Leandro%20Aconcha%20-%20The%20Entertainer.mp3",
+			"Post": "http://82.156.12.58:808/post/Leandro%20Aconcha%20-%20The%20Entertainer.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Leandro%20Aconcha%20-%20The%20Entertainer-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 12,
+			"Name": "云长",
+			"Singer": "赵钶",
+			"Link": "http://82.156.12.58:808/music/%E8%B5%B5%E9%92%B6%20-%20%E4%BA%91%E9%95%BF%20(Live).mp3",
+			"Post": "http://82.156.12.58:808/post/%E8%B5%B5%E9%92%B6%20-%20%E4%BA%91%E9%95%BF%20(Live).jpg",
+			"Bg": "http://82.156.12.58:808/bg/%E8%B5%B5%E9%92%B6%20-%20%E4%BA%91%E9%95%BF%20(Live)-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 13,
+			"Name": "Here",
+			"Singer": "Lucian _ MC YA",
+			"Link": "http://82.156.12.58:808/music/Lucian%20_%20MC%20YA%20-%20Here%20(Lucian%20Remix).mp3",
+			"Post": "http://82.156.12.58:808/post/Lucian%20_%20MC%20YA%20-%20Here%20(Lucian%20Remix).jpg",
+			"Bg": "http://82.156.12.58:808/bg/Lucian%20_%20MC%20YA%20-%20Here%20(Lucian%20Remix)-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 14,
+			"Name": "Lunette",
+			"Singer": "MADE IN HEIGHTS",
+			"Link": "http://82.156.12.58:808/music/MADE%20IN%20HEIGHTS%20-%20Lunette.mp3",
+			"Post": "http://82.156.12.58:808/post/MADE%20IN%20HEIGHTS%20-%20Lunette.jpg",
+			"Bg": "http://82.156.12.58:808/bg/MADE%20IN%20HEIGHTS%20-%20Lunette-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 15,
+			"Name": "Drown",
+			"Singer": "Martin Garrix _ Clinton Kane _ Alle Farben",
+			"Link": "http://82.156.12.58:808/music/Martin%20Garrix%20_%20Clinton%20Kane%20_%20Alle%20Farben%20-%20Drown%20(Alle%20Farben%20Remix).mp3",
+			"Post": "http://82.156.12.58:808/post/Martin%20Garrix%20_%20Clinton%20Kane%20_%20Alle%20Farben%20-%20Drown%20(Alle%20Farben%20Remix).jpg",
+			"Bg": "http://82.156.12.58:808/bg/Martin%20Garrix%20_%20Clinton%20Kane%20_%20Alle%20Farben%20-%20Drown%20(Alle%20Farben%20Remix)-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 16,
+			"Name": "Drunk Groove",
+			"Singer": "MARUV,BOOSIN",
+			"Link": "http://82.156.12.58:808/music/MARUV,BOOSIN%20-%20Drunk%20Groove.mp3",
+			"Post": "http://82.156.12.58:808/post/MARUV,BOOSIN%20-%20Drunk%20Groove.jpg",
+			"Bg": "http://82.156.12.58:808/bg/MARUV,BOOSIN%20-%20Drunk%20Groove-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 17,
+			"Name": "Bottom Of The Deep Blue Sea",
+			"Singer": "Missio",
+			"Link": "http://82.156.12.58:808/music/Missio%20-%20Bottom%20Of%20The%20Deep%20Blue%20Sea.mp3",
+			"Post": "http://82.156.12.58:808/post/Missio%20-%20Bottom%20Of%20The%20Deep%20Blue%20Sea.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Missio%20-%20Bottom%20Of%20The%20Deep%20Blue%20Sea-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 18,
+			"Name": "Heartless",
+			"Singer": "Nick Peters _ Bianca & Rook",
+			"Link": "http://82.156.12.58:808/music/Nick%20Peters%20_%20Bianca%20&%20Rook%20-%20Heartless.mp3",
+			"Post": "http://82.156.12.58:808/post/Nick%20Peters%20_%20Bianca%20&%20Rook%20-%20Heartless.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Nick%20Peters%20_%20Bianca%20&%20Rook%20-%20Heartless-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 19,
+			"Name": "Otto Croy",
+			"Singer": "Odjbox",
+			"Link": "http://82.156.12.58:808/music/Odjbox%20-%20Otto%20Croy.mp3",
+			"Post": "http://82.156.12.58:808/post/Odjbox%20-%20Otto%20Croy.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Odjbox%20-%20Otto%20Croy-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 20,
+			"Name": "Real Good Feeling",
+			"Singer": "Oh The Larceny",
+			"Link": "http://82.156.12.58:808/music/Oh%20The%20Larceny%20-%20Real%20Good%20Feeling.mp3",
+			"Post": "http://82.156.12.58:808/post/Oh%20The%20Larceny%20-%20Real%20Good%20Feeling.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Oh%20The%20Larceny%20-%20Real%20Good%20Feeling-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 21,
+			"Name": "This Is It",
+			"Singer": "Oh The Larceny",
+			"Link": "http://82.156.12.58:808/music/Oh%20The%20Larceny%20-%20This%20Is%20It.mp3",
+			"Post": "http://82.156.12.58:808/post/Oh%20The%20Larceny%20-%20This%20Is%20It.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Oh%20The%20Larceny%20-%20This%20Is%20It-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 22,
+			"Name": "Happy",
+			"Singer": "Pharrell Williams",
+			"Link": "http://82.156.12.58:808/music/Pharrell%20Williams%20-%20Happy.mp3",
+			"Post": "http://82.156.12.58:808/post/Pharrell%20Williams%20-%20Happy.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Pharrell%20Williams%20-%20Happy-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 23,
+			"Name": "Sleeping In",
+			"Singer": "Phil Good",
+			"Link": "http://82.156.12.58:808/music/Phil%20Good%20-%20Sleeping%20In%20(Acoustic).mp3",
+			"Post": "http://82.156.12.58:808/post/Phil%20Good%20-%20Sleeping%20In%20(Acoustic).jpg",
+			"Bg": "http://82.156.12.58:808/bg/Phil%20Good%20-%20Sleeping%20In%20(Acoustic)-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 24,
+			"Name": "Just Like A Gold Rush",
+			"Singer": "Ramin",
+			"Link": "http://82.156.12.58:808/music/Ramin%20-%20Just%20Like%20A%20Gold%20Rush.mp3",
+			"Post": "http://82.156.12.58:808/post/Ramin%20-%20Just%20Like%20A%20Gold%20Rush.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Ramin%20-%20Just%20Like%20A%20Gold%20Rush-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 25,
+			"Name": "Special",
+			"Singer": "Six60",
+			"Link": "http://82.156.12.58:808/music/Six60%20-%20Special.mp3",
+			"Post": "http://82.156.12.58:808/post/Six60%20-%20Special.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Six60%20-%20Special-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 26,
+			"Name": "Fly",
+			"Singer": "Softly",
+			"Link": "http://82.156.12.58:808/music/Softly%20-%20Fly.mp3",
+			"Post": "http://82.156.12.58:808/post/Softly%20-%20Fly.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Softly%20-%20Fly-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 27,
+			"Name": "出现",
+			"Singer": "TalanTara傅悅,啜欣宇",
+			"Link": "http://82.156.12.58:808/music/TalanTara%E5%82%85%E6%82%85,%E5%95%9C%E6%AC%A3%E5%AE%87%20-%20%E5%87%BA%E7%8E%B0.mp3",
+			"Post": "http://82.156.12.58:808/post/TalanTara%E5%82%85%E6%82%85,%E5%95%9C%E6%AC%A3%E5%AE%87%20-%20%E5%87%BA%E7%8E%B0.jpg",
+			"Bg": "http://82.156.12.58:808/bg/TalanTara%E5%82%85%E6%82%85,%E5%95%9C%E6%AC%A3%E5%AE%87%20-%20%E5%87%BA%E7%8E%B0-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 28,
+			"Name": "Lover",
+			"Singer": "Taylor Swift _ Shawn Mendes",
+			"Link": "http://82.156.12.58:808/music/Taylor%20Swift%20_%20Shawn%20Mendes%20-%20Lover%20(Remix).mp3",
+			"Post": "http://82.156.12.58:808/post/Taylor%20Swift%20_%20Shawn%20Mendes%20-%20Lover%20(Remix).jpg",
+			"Bg": "http://82.156.12.58:808/bg/Taylor%20Swift%20_%20Shawn%20Mendes%20-%20Lover%20(Remix)-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 29,
+			"Name": "Honest",
+			"Singer": "The Chainsmokers",
+			"Link": "http://82.156.12.58:808/music/The%20Chainsmokers%20-%20Honest.mp3",
+			"Post": "http://82.156.12.58:808/post/The%20Chainsmokers%20-%20Honest.jpg",
+			"Bg": "http://82.156.12.58:808/bg/The%20Chainsmokers%20-%20Honest-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 30,
+			"Name": "My Medicine",
+			"Singer": "The Pretty Reckless",
+			"Link": "http://82.156.12.58:808/music/The%20Pretty%20Reckless%20-%20My%20Medicine.mp3",
+			"Post": "http://82.156.12.58:808/post/The%20Pretty%20Reckless%20-%20My%20Medicine.jpg",
+			"Bg": "http://82.156.12.58:808/bg/The%20Pretty%20Reckless%20-%20My%20Medicine-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 31,
+			"Name": "Glory",
+			"Singer": "The Score",
+			"Link": "http://82.156.12.58:808/music/The%20Score%20-%20Glory.mp3",
+			"Post": "http://82.156.12.58:808/post/The%20Score%20-%20Glory.jpg",
+			"Bg": "http://82.156.12.58:808/bg/The%20Score%20-%20Glory-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 32,
+			"Name": "Hunger",
+			"Singer": "The Score",
+			"Link": "http://82.156.12.58:808/music/The%20Score%20-%20Hunger.mp3",
+			"Post": "http://82.156.12.58:808/post/The%20Score%20-%20Hunger.jpg",
+			"Bg": "http://82.156.12.58:808/bg/The%20Score%20-%20Hunger-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 33,
+			"Name": "Oh My Dear Lord",
+			"Singer": "The Unlikely Candidates",
+			"Link": "http://82.156.12.58:808/music/The%20Unlikely%20Candidates%20-%20Oh%20My%20Dear%20Lord.mp3",
+			"Post": "http://82.156.12.58:808/post/The%20Unlikely%20Candidates%20-%20Oh%20My%20Dear%20Lord.jpg",
+			"Bg": "http://82.156.12.58:808/bg/The%20Unlikely%20Candidates%20-%20Oh%20My%20Dear%20Lord-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 34,
+			"Name": "Everything Black",
+			"Singer": "Unlike Pluto _ Mike Taylor",
+			"Link": "http://82.156.12.58:808/music/Unlike%20Pluto%20_%20Mike%20Taylor%20-%20Everything%20Black.mp3",
+			"Post": "http://82.156.12.58:808/post/Unlike%20Pluto%20_%20Mike%20Taylor%20-%20Everything%20Black.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Unlike%20Pluto%20_%20Mike%20Taylor%20-%20Everything%20Black-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 35,
+			"Name": "Devil's Tears",
+			"Singer": "Vicion _ Tesity",
+			"Link": "http://82.156.12.58:808/music/Vicion%20_%20Tesity%20-%20Devil%27s%20Tears.mp3",
+			"Post": "http://82.156.12.58:808/post/Vicion%20_%20Tesity%20-%20Devil%27s%20Tears.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Vicion%20_%20Tesity%20-%20Devil%27s%20Tears-bg.jpg",
+			"Like": false
+		},
+		{
+			"mid": 36,
+			"Name": "Fifth Avenue",
+			"Singer": "Walk off the Earth",
+			"Link": "http://82.156.12.58:808/music/Walk%20off%20the%20Earth%20-%20Fifth%20Avenue.mp3",
+			"Post": "http://82.156.12.58:808/post/Walk%20off%20the%20Earth%20-%20Fifth%20Avenue.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Walk%20off%20the%20Earth%20-%20Fifth%20Avenue-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 37,
+			"Name": "Top of the World",
+			"Singer": "Zayde Wølf",
+			"Link": "http://82.156.12.58:808/music/Zayde%20W%C3%B8lf%20-%20Top%20of%20the%20World.mp3",
+			"Post": "http://82.156.12.58:808/post/Zayde%20W%C3%B8lf%20-%20Top%20of%20the%20World.jpg",
+			"Bg": "http://82.156.12.58:808/bg/Zayde%20W%C3%B8lf%20-%20Top%20of%20the%20World-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 38,
+			"Name": "浮夸",
+			"Singer": "陈奕迅",
+			"Link": "http://82.156.12.58:808/music/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E6%B5%AE%E5%A4%B8.mp3",
+			"Post": "http://82.156.12.58:808/post/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E6%B5%AE%E5%A4%B8.jpg",
+			"Bg": "http://82.156.12.58:808/bg/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E6%B5%AE%E5%A4%B8-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 39,
+			"Name": "水星记",
+			"Singer": "郭顶",
+			"Link": "http://82.156.12.58:808/music/%E9%83%AD%E9%A1%B6%20-%20%E6%B0%B4%E6%98%9F%E8%AE%B0.mp3",
+			"Post": "http://82.156.12.58:808/post/%E9%83%AD%E9%A1%B6%20-%20%E6%B0%B4%E6%98%9F%E8%AE%B0.jpg",
+			"Bg": "http://82.156.12.58:808/bg/%E9%83%AD%E9%A1%B6%20-%20%E6%B0%B4%E6%98%9F%E8%AE%B0-bg.jpg",
+			"Like": false
+		},
+		{
+			"id": 40,
+			"Name": "日落大道",
+			"Singer": "梁博",
+			"Link": "http://82.156.12.58:808/music/%E6%A2%81%E5%8D%9A%20-%20%E6%97%A5%E8%90%BD%E5%A4%A7%E9%81%93.mp3",
+			"Post": "http://82.156.12.58:808/post/%E6%A2%81%E5%8D%9A%20-%20%E6%97%A5%E8%90%BD%E5%A4%A7%E9%81%93.jpg",
+			"Bg": "http://82.156.12.58:808/bg/%E6%A2%81%E5%8D%9A%20-%20%E6%97%A5%E8%90%BD%E5%A4%A7%E9%81%93-bg.jpg",
+			"Like": false
+		}
+	]
+}
